@@ -1,0 +1,1 @@
+Get-ADComputer -Filter * -SearchBase "OU=Laptops,OU=TW,OU=Workstations,DC=aaa,DC=com" | ft > C:\Temp\AD_Laptops.csv
