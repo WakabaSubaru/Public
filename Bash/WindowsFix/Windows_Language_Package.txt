@@ -1,0 +1,27 @@
+Dism /online /Add-Capability /CapabilityName:Language.Basic~~~zh-TW~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Fonts.Hant~~~und-HANT~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Handwriting~~~zh-TW~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.OCR~~~zh-TW~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Speech~~~zh-TW~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.TextToSpeech~~~zh-TW~0.0.1.0
+
+Dism /online /Add-Capability /CapabilityName:Language.Basic~~~zh-CN~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Fonts.Hans~~~und-HANT~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Handwriting~~~zh-CN~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.OCR~~~zh-CN~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Speech~~~zh-CN~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.TextToSpeech~~~zh-CN~0.0.1.0
+
+Dism /online /Add-Capability /CapabilityName:Language.Basic~~~ja-JP~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Fonts.Jpan~~~und-JPAN~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Handwriting~~~ja-JP~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.OCR~~~ja-JP~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Speech~~~ja-JP~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.TextToSpeech~~~ja-JP~0.0.1.0
+
+Dism /online /Add-Capability /CapabilityName:Language.Basic~~~KORE~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Fonts.KORE~~~und-KORE~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Handwriting~~~KORE~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.OCR~~~JORE~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.Speech~~~KORE~0.0.1.0
+Dism /online /Add-Capability /CapabilityName:Language.TextToSpeech~~~KORE~0.0.1.0
